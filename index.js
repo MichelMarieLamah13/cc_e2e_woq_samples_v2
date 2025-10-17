@@ -84,7 +84,7 @@ function add_section(data) {
         if (d.transcription){
             const p = document.createElement("p")
             let t = d.transcription
-            t = t.charAt(0).toUpperCase() + t.slice(1).toLowerCase()
+            // t = t.charAt(0).toUpperCase() + t.slice(1).toLowerCase()
             p.innerHTML = `<p><b>Transcription</b>: ${t}</p>`
             displayDiv.appendChild(p)
         }
