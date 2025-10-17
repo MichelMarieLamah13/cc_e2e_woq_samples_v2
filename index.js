@@ -53,7 +53,7 @@ function add_section(data) {
         if (!d.hide) {
             const opt = document.createElement("option")
             opt.value = d.id
-            opt.text = d.id
+            opt.text = d.id + "["+d.gender+"]"
             select.appendChild(opt)
         }
     })
@@ -68,15 +68,17 @@ function add_section(data) {
 
     // --- Événement : afficher les audios quand on change d'ID ---
     select.addEventListener("change", (e) => {
-        const selectedId = e.target.value
+        const selectedOption = e.target.options[e.target.selectedIndex];
+        const value = selectedOption.value;  // the value attribute
+        const text  = selectedOption.text; 
         displayDiv.innerHTML = "" // vider avant d'afficher le nouveau contenu
 
-        const d = data.content.find(item => item.id === selectedId)
+        const d = data.content.find(item => item.id === value)
         if (!d) return
 
         // Partie déjà fournie (réutilisée telle quelle)
         const h3 = document.createElement("h3")
-        h3.innerHTML = d.id
+        h3.innerHTML = text
         displayDiv.appendChild(h3)
 
         if (d.transcription){
