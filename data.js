@@ -306,11 +306,319 @@ export const DATA = [
             },
         ]
     },
+    {
+        title: "Noisy speech",
+        hide: false,
+        description: [],
+        content: [
+            {
+                id: "367-293981-0002",
+                transcription: "I SAY REPLIED SANCHO THAT I SWEAR TO HOLD MY TONGUE ABOUT IT TILL THE END OF YOUR WORSHIP'S DAYS AND GOD GRANT I MAY BE ABLE TO LET IT OUT TOMORROW",
+                path: "data/original/noisy/367-293981-0002.flac",
+                gender: "F",
+                title: "Original",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "data/cc_sr_16_nf_100_fs_8_woq_e2e/noisy/367-293981-0002_cc_sr_16_nf_100_fs_8_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "data/cc_sr_16_nf_100_fs_16_woq_e2e/noisy/367-293981-0002_cc_sr_16_nf_100_fs_16_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "data/cc_sr_16_nf_100_fs_32_woq_e2e/noisy/367-293981-0002_cc_sr_16_nf_100_fs_32_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "data/cc_sr_16_nf_100_fs_64_woq_e2e/noisy/367-293981-0002_cc_sr_16_nf_100_fs_64_woq_e2e.flac",
+                        hide: false
+                    },
+                ]
+            },
+            {
+                id: "2033-164916-0002",
+                transcription: `WHEN THE MINISTER HEARD THESE WORDS HE REJOICED WITH GREAT JOY AND SAID O CHAMBERLAIN TELL ME THE TALE OF THE TWAIN AND WHAT BEFEL THEM AND THE CAUSE OF THEIR LONG ABSENCE
+I SAY REPLIED SANCHO THAT I SWEAR TO HOLD MY TONGUE ABOUT IT TILL THE END OF YOUR WORSHIP'S DAYS AND GOD GRANT I MAY BE ABLE TO LET IT OUT TOMORROW`,
+                path: "data/original/noisy/2033-164916-0002.flac",
+                gender: "M",
+                title: "Original",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "data/cc_sr_16_nf_100_fs_8_woq_e2e/noisy/2033-164916-0002_cc_sr_16_nf_100_fs_8_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "data/cc_sr_16_nf_100_fs_16_woq_e2e/noisy/2033-164916-0002_cc_sr_16_nf_100_fs_16_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "data/cc_sr_16_nf_100_fs_32_woq_e2e/noisy/2033-164916-0002_cc_sr_16_nf_100_fs_32_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "data/cc_sr_16_nf_100_fs_64_woq_e2e/noisy/2033-164916-0002_cc_sr_16_nf_100_fs_64_woq_e2e.flac",
+                        hide: false
+                    },
+                ]
+            },
+            {
+                id: "3080-5032-0012",
+                transcription: `BUT IT SEEMS THIS GENTLEMAN IS NOT SO EASY ACCESS BUT YOU MAY ACKNOWLEDGE SOMETHING DUE TO ME IF I INCLINE HIM TO LOOK GRACIOUSLY UPON YOU AND THEREFORE THERE IS NOT MUCH HARM DONE`,
+                path: "data/original/noisy/3080-5032-0012.flac",
+                gender: "F",
+                title: "Original",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "data/cc_sr_16_nf_100_fs_8_woq_e2e/noisy/3080-5032-0012_cc_sr_16_nf_100_fs_8_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "data/cc_sr_16_nf_100_fs_16_woq_e2e/noisy/3080-5032-0012_cc_sr_16_nf_100_fs_16_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "data/cc_sr_16_nf_100_fs_32_woq_e2e/noisy/3080-5032-0012_cc_sr_16_nf_100_fs_32_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "data/cc_sr_16_nf_100_fs_64_woq_e2e/noisy/3080-5032-0012_cc_sr_16_nf_100_fs_64_woq_e2e.flac",
+                        hide: false
+                    },
+                ]
+            },
+            {
+                id: "4198-12259-0008",
+                transcription: `IF I DRINK NOT I AM A GROUND DRY GRAVELLED AND SPENT I AM STARK DEAD WITHOUT DRINK AND MY SOUL READY TO FLY INTO SOME MARSH AMONGST FROGS THE SOUL NEVER DWELLS IN A DRY PLACE DROUTH KILLS IT`,
+                path: "data/original/noisy/4198-12259-0008.flac",
+                gender: "M",
+                title: "Original",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "data/cc_sr_16_nf_100_fs_8_woq_e2e/noisy/4198-12259-0008_cc_sr_16_nf_100_fs_8_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "data/cc_sr_16_nf_100_fs_16_woq_e2e/noisy/4198-12259-0008_cc_sr_16_nf_100_fs_16_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "data/cc_sr_16_nf_100_fs_32_woq_e2e/noisy/4198-12259-0008_cc_sr_16_nf_100_fs_32_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "data/cc_sr_16_nf_100_fs_64_woq_e2e/noisy/4198-12259-0008_cc_sr_16_nf_100_fs_64_woq_e2e.flac",
+                        hide: false
+                    },
+                ]
+            },
+            {
+                id: "4294-9934-0000",
+                transcription: `HE FELT WHAT THE EARTH MAY POSSIBLY FEEL AT THE MOMENT WHEN IT IS TORN OPEN WITH THE IRON IN ORDER THAT GRAIN MAY BE DEPOSITED WITHIN IT IT FEELS ONLY THE WOUND THE QUIVER OF THE GERM AND THE JOY OF THE FRUIT ONLY ARRIVE LATER`,
+                path: "data/original/noisy/4294-9934-0000.flac",
+                gender: "F",
+                title: "Original",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "data/cc_sr_16_nf_100_fs_8_woq_e2e/noisy/4294-9934-0000_cc_sr_16_nf_100_fs_8_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "data/cc_sr_16_nf_100_fs_16_woq_e2e/noisy/4294-9934-0000_cc_sr_16_nf_100_fs_16_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "data/cc_sr_16_nf_100_fs_32_woq_e2e/noisy/4294-9934-0000_cc_sr_16_nf_100_fs_32_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "data/cc_sr_16_nf_100_fs_64_woq_e2e/noisy/4294-9934-0000_cc_sr_16_nf_100_fs_64_woq_e2e.flac",
+                        hide: false
+                    },
+                ]
+            },
+            {
+                id: "4350-9170-0000",
+                transcription: `EDUCATED PEOPLE OF THE UPPER CLASSES ARE TRYING TO STIFLE THE EVER GROWING SENSE OF THE NECESSITY OF TRANSFORMING THE EXISTING SOCIAL ORDER`,
+                path: "data/original/noisy/4350-9170-0000.flac",
+                gender: "M",
+                title: "Original",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "data/cc_sr_16_nf_100_fs_8_woq_e2e/noisy/4350-9170-0000_cc_sr_16_nf_100_fs_8_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "data/cc_sr_16_nf_100_fs_16_woq_e2e/noisy/4350-9170-0000_cc_sr_16_nf_100_fs_16_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "data/cc_sr_16_nf_100_fs_32_woq_e2e/noisy/4350-9170-0000_cc_sr_16_nf_100_fs_32_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "data/cc_sr_16_nf_100_fs_64_woq_e2e/noisy/4350-9170-0000_cc_sr_16_nf_100_fs_64_woq_e2e.flac",
+                        hide: false
+                    },
+                ]
+            },
+            {
+                id: "5442-41168-0009",
+                transcription: `HE FORGOT AS SERGEY IVANOVITCH EXPLAINED TO HIM AFTERWARDS THIS SYLLOGISM THAT IT WAS NECESSARY FOR THE PUBLIC GOOD TO GET RID OF THE MARSHAL OF THE PROVINCE THAT TO GET RID OF THE MARSHAL IT WAS NECESSARY TO HAVE A MAJORITY OF VOTES THAT TO GET A MAJORITY OF VOTES IT WAS NECESSARY TO SECURE FLEROV'S RIGHT TO VOTE THAT TO SECURE THE RECOGNITION OF FLEROV'S RIGHT TO VOTE THEY MUST DECIDE ON THE INTERPRETATION TO BE PUT ON THE ACT`,
+                path: "data/original/noisy/5442-41168-0009.flac",
+                gender: "F",
+                title: "Original",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "data/cc_sr_16_nf_100_fs_8_woq_e2e/noisy/5442-41168-0009_cc_sr_16_nf_100_fs_8_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "data/cc_sr_16_nf_100_fs_16_woq_e2e/noisy/5442-41168-0009_cc_sr_16_nf_100_fs_16_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "data/cc_sr_16_nf_100_fs_32_woq_e2e/noisy/5442-41168-0009_cc_sr_16_nf_100_fs_32_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "data/cc_sr_16_nf_100_fs_64_woq_e2e/noisy/5442-41168-0009_cc_sr_16_nf_100_fs_64_woq_e2e.flac",
+                        hide: false
+                    },
+                ]
+            },
+            {
+                id: "5764-299665-0066",
+                transcription: `RELIGION RESTS ON THE IDEA THAT NATURE HAS A MASTER AND THAT THIS MASTER WILL LISTEN TO PRAYER THAT THIS MASTER PUNISHES AND REWARDS THAT HE LOVES PRAISE AND FLATTERY AND HATES THE BRAVE AND FREE`,
+                path: "data/original/noisy/5764-299665-0066.flac",
+                gender: "M",
+                title: "Original",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "data/cc_sr_16_nf_100_fs_8_woq_e2e/noisy/5764-299665-0066_cc_sr_16_nf_100_fs_8_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "data/cc_sr_16_nf_100_fs_16_woq_e2e/noisy/5764-299665-0066_cc_sr_16_nf_100_fs_16_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "data/cc_sr_16_nf_100_fs_32_woq_e2e/noisy/5764-299665-0066_cc_sr_16_nf_100_fs_32_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "data/cc_sr_16_nf_100_fs_64_woq_e2e/noisy/5764-299665-0066_cc_sr_16_nf_100_fs_64_woq_e2e.flac",
+                        hide: false
+                    },
+                ]
+            },
+            {
+                id: "6070-86744-0007",
+                transcription: `I RESIDE IN MY FATHER'S HOUSE BUT OCCUPY A PAVILION AT THE FARTHER SIDE OF THE COURT YARD ENTIRELY SEPARATED FROM THE MAIN BUILDING`,
+                path: "data/original/noisy/6070-86744-0007.flac",
+                gender: "F",
+                title: "Original",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "data/cc_sr_16_nf_100_fs_8_woq_e2e/noisy/6070-86744-0007_cc_sr_16_nf_100_fs_8_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "data/cc_sr_16_nf_100_fs_16_woq_e2e/noisy/6070-86744-0007_cc_sr_16_nf_100_fs_16_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "data/cc_sr_16_nf_100_fs_32_woq_e2e/noisy/6070-86744-0007_cc_sr_16_nf_100_fs_32_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "data/cc_sr_16_nf_100_fs_64_woq_e2e/noisy/6070-86744-0007_cc_sr_16_nf_100_fs_64_woq_e2e.flac",
+                        hide: false
+                    },
+                ]
+            },
+            {
+                id: "6432-63723-0030",
+                transcription: `BUT IT WAS NOTICED THAT THE OLDER AND MORE CONSERVATIVE FAMILIES WERE LESS OFTEN REPRESENTED AND WHEN THEY WERE IT WAS BY SOME OF THE YOUNGER MEMBERS WHOSE REPUTATIONS WERE ALREADY SMIRCHED OR WHO HAD NOT YET ACQUIRED ANY AND WERE WILLING TO TAKE A CHANCE`,
+                path: "data/original/noisy/6432-63723-0030.flac",
+                gender: "M",
+                title: "Original",
+                hide: false,
+                content: [
+                    {
+                        title: "8 features",
+                        path: "data/cc_sr_16_nf_100_fs_8_woq_e2e/noisy/6432-63723-0030_cc_sr_16_nf_100_fs_8_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "16 features",
+                        path: "data/cc_sr_16_nf_100_fs_16_woq_e2e/noisy/6432-63723-0030_cc_sr_16_nf_100_fs_16_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "32 features",
+                        path: "data/cc_sr_16_nf_100_fs_32_woq_e2e/noisy/6432-63723-0030_cc_sr_16_nf_100_fs_32_woq_e2e.flac",
+                        hide: false
+                    },
+                    {
+                        title: "64 features",
+                        path: "data/cc_sr_16_nf_100_fs_64_woq_e2e/noisy/6432-63723-0030_cc_sr_16_nf_100_fs_64_woq_e2e.flac",
+                        hide: false
+                    },
+                ]
+            },
+        ]
+    }
 ]
 
 export const NOTE = [
     "In these experiments, we trained the <b>cognitive coding codec</b> without a quantizer, following an <b>end-to-end</b> training approach.",
     "This training strategy was adopted to estimate the maximum quality the model could potentially achieve.",
     "We experimented with feature dimensions ranging from <b>8</b> to <b>64</b>, increasing by a factor of <b>2</b> at each step.",
-    "The evaluation samples are from <b>librispeech clean test split</b>."
+    "The evaluation samples are from <b>librispeech clean and noisy test split</b>."
 ]
