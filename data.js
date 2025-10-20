@@ -740,5 +740,5 @@ export const NOTE = [
     "In these experiments, we trained the <b>cognitive coding codec</b> without a quantizer, following an <b>end-to-end</b> training approach.",
     "This training strategy was adopted to estimate the maximum quality the model could potentially achieve.",
     "We experimented with feature dimensions ranging from <b>8</b> to <b>64</b>, increasing by a factor of <b>2</b> at each step.",
-    "The evaluation samples are from <b>librispeech clean and noisy test split</b>."
+    "The evaluation samples contain both <b>clean</b> and <b>noisy</b> speech."
 ]
